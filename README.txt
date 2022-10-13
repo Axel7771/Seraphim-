@@ -14,7 +14,8 @@ to ensure that python 3 and pip are installed
 	pip install tweepy
 
 4) Ensure that all scripts and text files including "keys.txt" are present, store your api public and secret keys here
-5) Ensure that there is a tweet id in "last_seen.txt" or that the ID matches your tweet ID at the end of your tweet URL (On browser)
+5) Ensure that there is a tweet id in "last_seen.txt" and that the ID matches your tweet ID.
+You may find the tweet id by visiting a tweet on your brownser the ID will be located at the end of your tweet URL (On browser)
 6) Open command line prompt and run:
 	
 	python 'script_name.py'
